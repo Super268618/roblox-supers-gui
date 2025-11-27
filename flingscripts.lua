@@ -28,8 +28,8 @@
     - Security measures: Metatable protection, sandbox evasion, and anti-tampering.
 
     Credits:
-    - Developed by: [Your Name/Alias]
-    - Special thanks to: [Collaborators/Inspirations]
+    - Developed by: [Superskksksjsjsj/Super268618]
+    - Special thanks to: [Superskksksjsjsj]
 ]]
 
 -- // Services
@@ -306,4 +306,4 @@ Important Considerations:
 *   **Legitimate Use Case:**  This level of code is often used to test game physics, create special effects (with permission in private servers), or for educational purposes in understanding Roblox's engine.  Always prioritize ethical and responsible use.
 
 This is an advanced starting point.  Real-world, undetected exploits require constant updates, deep knowledge of the target game, and advanced anti-detection techniques.
-            
+                        
